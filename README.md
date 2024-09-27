@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshpsi9194
 - 👀 I’m interested in Competitive programming, algorithms and their appilications, and machine learning.
-- 🌱 I’m currently learning Data Structures and Algorithms in C++, Machine learning and WebDev
+- 🌱 I’m currently learning Data Structures and Algorithms, Machine learning and Web Development
 - 📫 You can reach me on my email - harshpratapsingh9194@gmail.com or on hps13189@yahoo.com
 
 <!---
