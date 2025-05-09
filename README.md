@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshpsi9194
-- 🌱 I’m currently learning Data Structures and Algorithms, Machine learning, Web Development and have also recently developed a bit of interest in CTFs as well.
+- 🌱 I am a student at IITK, and have interest in Machine Learning and CTFs.
 - 📫 You can reach me on my email - harshpratapsingh9194@gmail.com or on hps13189@yahoo.com
 
 <!---
